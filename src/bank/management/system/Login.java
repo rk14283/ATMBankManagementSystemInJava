@@ -42,6 +42,7 @@ public class Login extends JFrame {
                 add(text); 
                 
                 getContentPane().setBackground(Color.white);
+                //Extra stuff
                 
                 System.out.println("Image found using user.dir: " + absoluteImagePath);
             } else {
